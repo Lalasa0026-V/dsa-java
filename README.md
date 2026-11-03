@@ -1,2 +1,13 @@
 # dsa-java
-Open source, composable payments platform | PCI compliant | SaaS and Self-host options | Enables connectivity to multiple payment, payout, fraud, vault and tokenization providers | Uplifts authorization with intelligent routing and revenue recovery | Reduce payment processing costs with cost observability | Reduces payment ops with reconciliation
+
+My journey learning Data Structures and Algorithms in Java, with daily commits.
+
+- Started: 2 Nov 2026
+- Learning from: NeetCode and GeeksforGeeks
+- Practicing on: LeetCode
+
+## Progress
+| Day | Problem | Approach |
+|---|---|---|
+| 1 | Two Sum | Brute force |
+| 2 | Contains Duplicate | Brute force |
